@@ -156,7 +156,7 @@ header .navba.active {
     box-shadow: var(--box-shadow);
 }
 
-header .search-form.active {
+.header .search-form.active {
     right: 2rem;
 
 
